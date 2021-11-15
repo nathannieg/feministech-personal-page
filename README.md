@@ -22,7 +22,7 @@ Durante a criação do seu site, temos alguns tópicos que seriam interessantes 
 
 ![Screenshot](https://i.ibb.co/nsGJYxy/screenshot.png)
 
-[Clique aqui](#) para acessar o live site.
+[Clique aqui](https://nathannieg.github.io/feministech-personal-page/) para acessar o live site.
 
 ### Tecnologias utilizadas
 
