@@ -1,0 +1,30 @@
+@media screen and (max-width: 900px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+  }
+
+  .profile {
+    width: 75vw;
+  }
+
+  .profile__picture {
+    max-width: 8rem;
+  }
+
+  .links {
+    width: 75vw;
+    background-color: rgba(250, 250, 250, 1);
+  }
+
+  .links__list {
+    margin-top: 0;
+    width: 80%;
+  }
+
+  .links__list__item {
+    padding: 0.8rem 3rem;
+    background-color: #ae00de;
+  }
+}
